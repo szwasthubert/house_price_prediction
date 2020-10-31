@@ -1,0 +1,1 @@
+Project has been created for Kaggle`s "Houce Prices: Advanced Regression Techniques" competition. Its goal was to create regression model predicting prices with the lowest MSE. Metadata_Guide.txt file has been created by Pedro Marcelino and I do not take any credit to making it.
